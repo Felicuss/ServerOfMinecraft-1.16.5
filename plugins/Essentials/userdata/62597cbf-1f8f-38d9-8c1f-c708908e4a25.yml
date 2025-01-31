@@ -1,0 +1,21 @@
+lastAccountName: Kycok_oB4arku
+timestamps:
+  login: 1737920402397
+  logout: 1737923406401
+  mute: 0
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 54.79976073658629
+  y: 42.0
+  z: -191.49135610103457
+  yaw: -89.4942
+  pitch: 24.15353
+logoutlocation:
+  world: world
+  x: 28.26859790528186
+  y: 40.67663237163139
+  z: -174.83026138974566
+  yaw: -141.8429
+  pitch: 43.52838
+muted: false

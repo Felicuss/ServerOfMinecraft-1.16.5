@@ -1,0 +1,21 @@
+lastAccountName: Vin_Diesel
+timestamps:
+  login: 1737910402100
+  logout: 1737910409961
+  mute: 1737910402975
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 37.19113887709344
+  y: 29.0
+  z: -134.69999998807907
+  yaw: -178.98206
+  pitch: 7.2039266
+logoutlocation:
+  world: world
+  x: -6.521236531166794
+  y: 4.623363872747919
+  z: -112.20696886374066
+  yaw: 18.668823
+  pitch: 13.050558
+muted: true

@@ -1,0 +1,21 @@
+lastAccountName: LOVEPOLINa
+timestamps:
+  login: 1737908439036
+  mute: 1737910412694
+  logout: 1737910197895
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 35.25068577834065
+  y: 29.0
+  z: -134.69999998807907
+  yaw: -175.15594
+  pitch: 4.0468626
+muted: true
+logoutlocation:
+  world: world
+  x: 336.1951420765823
+  y: 31.206826143011174
+  z: -168.232356601157
+  yaw: 78.57898
+  pitch: 18.336931

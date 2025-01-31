@@ -1,0 +1,19 @@
+lastAccountName: oioidd
+timestamps:
+  login: 1737920400399
+  logout: 1737923410435
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 35.51142268176606
+  y: 29.0
+  z: -182.8263758741255
+  yaw: 179.23132
+  pitch: 8.400027
+logoutlocation:
+  world: world
+  x: 52.69999998807907
+  y: 42.0
+  z: -53.6389540858405
+  yaw: -93.22064
+  pitch: 60.749947

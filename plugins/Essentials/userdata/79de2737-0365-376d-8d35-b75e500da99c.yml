@@ -1,0 +1,21 @@
+lastAccountName: IIuoner
+timestamps:
+  login: 1737911452700
+  logout: 1737911940610
+  mute: 0
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -22.523247145084024
+  y: 9.746299787126485
+  z: -102.57112258687734
+  yaw: -169.77106
+  pitch: 26.98048
+logoutlocation:
+  world: world
+  x: 101.72129639168351
+  y: 40.202713545970155
+  z: -111.78021622311549
+  yaw: 149.52979
+  pitch: 21.402946
+muted: false
