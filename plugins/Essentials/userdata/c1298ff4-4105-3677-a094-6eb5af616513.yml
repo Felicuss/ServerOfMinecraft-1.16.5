@@ -1,0 +1,21 @@
+lastAccountName: to4no_FORMANUK
+timestamps:
+  login: 1737920398522
+  logout: 1737923410431
+  mute: 0
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: 90.6561758369886
+  y: 39.0
+  z: -131.43672466860178
+  yaw: 95.74167
+  pitch: 8.850013
+lastlocation:
+  world: world
+  x: 35.483947725248534
+  y: 29.0
+  z: -184.72699991604154
+  yaw: -10.927371
+  pitch: 8.917374
+muted: false

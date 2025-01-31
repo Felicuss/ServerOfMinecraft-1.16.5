@@ -1,0 +1,21 @@
+lastAccountName: '52525252525252'
+timestamps:
+  login: 1737908476236
+  logout: 1737910338047
+  mute: 0
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: -21.368149001593615
+  y: 19.212060413415482
+  z: -108.68888665660937
+  yaw: 84.94141
+  pitch: 42.93848
+lastlocation:
+  world: world
+  x: 67.46869990753495
+  y: 29.419999986886978
+  z: -134.69333037696214
+  yaw: 178.04492
+  pitch: 6.1364293
+muted: false

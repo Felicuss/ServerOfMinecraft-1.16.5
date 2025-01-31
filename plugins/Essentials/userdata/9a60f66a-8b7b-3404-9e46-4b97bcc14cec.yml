@@ -1,0 +1,21 @@
+lastAccountName: topsikOKYT
+timestamps:
+  login: 1737918347813
+  logout: 1737918463714
+  mute: 1737920113994
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: 12.695312052850857
+  y: 42.0
+  z: -73.04864950461123
+  yaw: -100.29373
+  pitch: 29.355389
+lastlocation:
+  world: world
+  x: 14.353851123698297
+  y: 42.0
+  z: -73.43309000964516
+  yaw: -14.305817
+  pitch: 12.140541
+muted: true

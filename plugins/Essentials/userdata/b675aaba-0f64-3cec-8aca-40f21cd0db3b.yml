@@ -1,0 +1,21 @@
+lastAccountName: polniraznos1234
+timestamps:
+  login: 1737911453100
+  logout: 1737911742858
+  mute: 0
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: 84.73811097129015
+  y: 40.25778557451362
+  z: -125.26218311754985
+  yaw: 154.98026
+  pitch: 5.224979
+lastlocation:
+  world: world
+  x: 6.487500011920929
+  y: 4.0
+  z: -103.69999998807907
+  yaw: 97.47992
+  pitch: 2.6929522
+muted: false
