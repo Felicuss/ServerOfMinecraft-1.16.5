@@ -1,0 +1,21 @@
+lastAccountName: Save_meee9
+timestamps:
+  login: 1737910401900
+  logout: 1737911353257
+  mute: 0
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 1.0719187103427823
+  y: 4.0
+  z: -105.49575023028535
+  yaw: -152.20769
+  pitch: 13.350172
+logoutlocation:
+  world: world
+  x: 103.59892231477811
+  y: 40.75107138122226
+  z: -97.97047456670502
+  yaw: -29.05017
+  pitch: 19.94995
+muted: false

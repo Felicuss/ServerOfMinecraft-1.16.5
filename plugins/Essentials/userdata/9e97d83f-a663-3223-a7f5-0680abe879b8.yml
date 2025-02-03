@@ -1,0 +1,21 @@
+lastAccountName: babrolik
+timestamps:
+  login: 1737908182586
+  logout: 1737910337655
+  mute: 1737912501814
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 38.74033263729572
+  y: 31.796851848462353
+  z: -142.6647568404278
+  yaw: 176.83868
+  pitch: 7.0481815
+logoutlocation:
+  world: world
+  x: 335.8794898614101
+  y: 36.695870582601
+  z: -32.27374327117523
+  yaw: -87.86151
+  pitch: 34.635307
+muted: true

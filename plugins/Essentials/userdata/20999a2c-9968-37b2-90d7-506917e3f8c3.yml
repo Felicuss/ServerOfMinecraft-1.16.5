@@ -1,0 +1,19 @@
+lastAccountName: EMPVova
+timestamps:
+  login: 1737911453250
+  logout: 1737912859857
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 52.5
+  y: 42.0
+  z: -81.5
+  yaw: 0.6789551
+  pitch: 16.726076
+logoutlocation:
+  world: world
+  x: 49.5
+  y: 42.0
+  z: -79.5
+  yaw: -175.64557
+  pitch: 12.183512

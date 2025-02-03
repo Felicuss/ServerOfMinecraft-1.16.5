@@ -1,0 +1,20 @@
+lastAccountName: WellMonde
+timestamps:
+  login: 1738434506920
+  logout: 1738438793422
+  lastteleport: 1738434628024
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 6.93822126081655
+  y: 5.0
+  z: -107.85432476708131
+  yaw: -95.92579
+  pitch: 15.414734
+logoutlocation:
+  world: world
+  x: -265.86739295904925
+  y: 10.220977992454381
+  z: 207.76813950598236
+  yaw: -68.21518
+  pitch: 50.076675

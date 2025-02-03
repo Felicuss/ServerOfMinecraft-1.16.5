@@ -1,0 +1,21 @@
+lastAccountName: Slizinka
+timestamps:
+  login: 1737920403446
+  logout: 1737920794255
+  mute: 0
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -52.902005821107295
+  y: 37.0
+  z: -80.6776155230099
+  yaw: -75.316696
+  pitch: 20.786484
+logoutlocation:
+  world: world
+  x: -46.07550993881804
+  y: 37.0
+  z: -77.45202429984685
+  yaw: -18.3754
+  pitch: 1.7966778
+muted: false

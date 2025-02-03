@@ -1,0 +1,21 @@
+lastAccountName: StasyaBOOM
+timestamps:
+  login: 1738432219450
+  logout: 1738435216373
+  mute: 0
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -247.8260946529776
+  y: 7.0
+  z: 216.1655035133201
+  yaw: 39.551636
+  pitch: 44.08637
+logoutlocation:
+  world: world
+  x: -215.36796613367986
+  y: 4.0
+  z: 218.34735601099013
+  yaw: -83.75165
+  pitch: -2.7929225
+muted: false

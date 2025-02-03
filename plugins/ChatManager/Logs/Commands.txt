@@ -1,0 +1,83 @@
+[Mon Feb 03 10:11:02 UTC 2025] Felicuss1331: /l stass
+[Mon Feb 03 10:11:05 UTC 2025] Felicuss1331: /bc 1
+[Mon Feb 03 10:11:08 UTC 2025] Felicuss1331: /mutechat
+[Mon Feb 03 10:11:15 UTC 2025] Felicuss1331: /mutechat
+[Mon Feb 03 10:11:39 UTC 2025] Felicuss1331: /deop Felicuss1331
+[Mon Feb 03 10:11:57 UTC 2025] Felicuss1331: /deop Felicuss1331
+[Mon Feb 03 10:11:59 UTC 2025] Felicuss1331: /bc 1
+[Mon Feb 03 10:12:05 UTC 2025] Felicuss1331: /mutechat
+[Mon Feb 03 10:12:21 UTC 2025] Felicuss1331: /mutechat
+[Mon Feb 03 10:12:24 UTC 2025] Felicuss1331: /deop Felicuss1331
+[Mon Feb 03 10:20:08 UTC 2025] Felicuss1331: /l stass
+[Mon Feb 03 10:20:21 UTC 2025] Felicuss1331: /luckperms
+[Mon Feb 03 10:20:27 UTC 2025] Felicuss1331: /bc 1
+[Mon Feb 03 10:20:42 UTC 2025] Felicuss1331: /list
+[Mon Feb 03 10:20:45 UTC 2025] Felicuss1331: /lp
+[Mon Feb 03 10:20:55 UTC 2025] Felicuss1331: /luckperms:luckperms
+[Mon Feb 03 10:21:05 UTC 2025] Felicuss1331: /l stass
+[Mon Feb 03 10:22:06 UTC 2025] Felicuss1331: /lp
+[Mon Feb 03 10:22:12 UTC 2025] Felicuss1331: /lp editor
+[Mon Feb 03 10:25:42 UTC 2025] Felicuss1331: /lp applyedits NAJTmPFtBB\
+[Mon Feb 03 10:25:44 UTC 2025] Felicuss1331: /lp applyedits NAJTmPFtBB
+[Mon Feb 03 10:27:10 UTC 2025] igravkalmara: /reg stass stass
+[Mon Feb 03 10:27:18 UTC 2025] igravkalmara: /mutechat
+[Mon Feb 03 10:27:22 UTC 2025] igravkalmara: /bc 1
+[Mon Feb 03 10:27:26 UTC 2025] igravkalmara: /bc 1
+[Mon Feb 03 10:29:49 UTC 2025] igravkalmara: /l stass
+[Mon Feb 03 10:30:15 UTC 2025] igravkalmara: /bc
+[Mon Feb 03 10:30:22 UTC 2025] igravkalmara: /chatmanager help
+[Mon Feb 03 10:30:25 UTC 2025] igravkalmara: /antiswear
+[Mon Feb 03 10:30:37 UTC 2025] igravkalmara: /antiswear
+[Mon Feb 03 10:30:46 UTC 2025] igravkalmara: /autobroadcast
+[Mon Feb 03 10:30:58 UTC 2025] igravkalmara: /chatmanager debug
+[Mon Feb 03 10:31:18 UTC 2025] Felicuss1331: /l stass
+[Mon Feb 03 10:31:30 UTC 2025] Felicuss1331: /chatmanager help
+[Mon Feb 03 10:31:38 UTC 2025] Felicuss1331: /autobroadcast
+[Mon Feb 03 10:32:08 UTC 2025] Felicuss1331: /chatmanager debug
+[Mon Feb 03 10:32:35 UTC 2025] Felicuss1331: /tp igravkalmara
+[Mon Feb 03 10:32:36 UTC 2025] Felicuss1331: /gamemode spectator
+[Mon Feb 03 10:33:21 UTC 2025] Felicuss1331: /gamemode creative
+[Mon Feb 03 10:33:29 UTC 2025] Felicuss1331: /gamemode spectator
+[Mon Feb 03 10:33:37 UTC 2025] Felicuss1331: /gamemode creative
+[Mon Feb 03 10:33:54 UTC 2025] Felicuss1331: //pos1
+[Mon Feb 03 10:34:06 UTC 2025] Felicuss1331: //pos2
+[Mon Feb 03 10:34:11 UTC 2025] Felicuss1331: //copy
+[Mon Feb 03 10:34:14 UTC 2025] Felicuss1331: //paste
+[Mon Feb 03 10:34:33 UTC 2025] Felicuss1331: //undo
+[Mon Feb 03 10:34:55 UTC 2025] Felicuss1331: /gamemode spectator
+[Mon Feb 03 10:34:57 UTC 2025] Felicuss1331: /gamemode creative
+[Mon Feb 03 10:35:02 UTC 2025] Felicuss1331: //copy
+[Mon Feb 03 10:35:11 UTC 2025] Felicuss1331: //paste
+[Mon Feb 03 10:35:22 UTC 2025] Felicuss1331: //undo
+[Mon Feb 03 10:36:53 UTC 2025] igravkalmara: /l stass
+[Mon Feb 03 10:37:11 UTC 2025] igravkalmara: /gm 1
+[Mon Feb 03 10:37:22 UTC 2025] Felicuss1331: /l stass
+[Mon Feb 03 10:37:33 UTC 2025] Felicuss1331: //paste
+[Mon Feb 03 10:37:46 UTC 2025] Felicuss1331: //pos1
+[Mon Feb 03 10:37:53 UTC 2025] Felicuss1331: //pos2
+[Mon Feb 03 10:38:00 UTC 2025] Felicuss1331: /gamemode spectator
+[Mon Feb 03 10:38:01 UTC 2025] Felicuss1331: /gamemode creative
+[Mon Feb 03 10:38:09 UTC 2025] Felicuss1331: //copy
+[Mon Feb 03 10:38:17 UTC 2025] Felicuss1331: //paste
+[Mon Feb 03 10:38:27 UTC 2025] Felicuss1331: //undo
+[Mon Feb 03 10:38:38 UTC 2025] Felicuss1331: //rotate 180
+[Mon Feb 03 10:38:42 UTC 2025] Felicuss1331: //paste
+[Mon Feb 03 10:39:58 UTC 2025] Felicuss1331: /l stass
+[Mon Feb 03 10:40:19 UTC 2025] Felicuss1331: //pos1
+[Mon Feb 03 10:40:38 UTC 2025] Felicuss1331: //pos2
+[Mon Feb 03 10:40:46 UTC 2025] Felicuss1331: //pos2
+[Mon Feb 03 10:40:58 UTC 2025] Felicuss1331: //copy
+[Mon Feb 03 10:42:27 UTC 2025] Felicuss1331: /gamemode spectator
+[Mon Feb 03 10:42:57 UTC 2025] Felicuss1331: /gamemode creative
+[Mon Feb 03 10:43:00 UTC 2025] Felicuss1331: //wand
+[Mon Feb 03 10:43:01 UTC 2025] Felicuss1331: /gamemode spectator
+[Mon Feb 03 10:43:06 UTC 2025] Felicuss1331: /gamemode creative
+[Mon Feb 03 10:44:20 UTC 2025] Felicuss1331: /SPEED 4
+[Mon Feb 03 10:44:52 UTC 2025] Felicuss1331: //paste
+[Mon Feb 03 10:45:11 UTC 2025] Felicuss1331: //rotate 90
+[Mon Feb 03 10:45:17 UTC 2025] Felicuss1331: //paste
+[Mon Feb 03 10:46:31 UTC 2025] Felicuss1331: /l stass
+[Mon Feb 03 10:46:47 UTC 2025] Felicuss1331: //paste
+[Mon Feb 03 11:18:28 UTC 2025] Felicuss1331: /l stass
+[Mon Feb 03 11:18:30 UTC 2025] Felicuss1331: /gamemode spectator
+[Mon Feb 03 11:19:04 UTC 2025] Felicuss1331: /gamemode creative

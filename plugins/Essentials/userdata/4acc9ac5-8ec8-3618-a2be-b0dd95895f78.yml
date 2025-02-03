@@ -1,0 +1,23 @@
+lastAccountName: Felicuss1331
+timestamps:
+  login: 1738581504161
+  logout: 1738581548070
+  lastteleport: 1738578755089
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: 28.938775552892814
+  y: 19.0
+  z: -106.21810427241549
+  yaw: -95.69183
+  pitch: -6.000103
+lastlocation:
+  world: world
+  x: -47.89701292039765
+  y: 44.36282778005542
+  z: -242.474875474329
+  yaw: -178.21252
+  pitch: 28.350885
+powertools:
+  stick:
+  - gm 3 {player}

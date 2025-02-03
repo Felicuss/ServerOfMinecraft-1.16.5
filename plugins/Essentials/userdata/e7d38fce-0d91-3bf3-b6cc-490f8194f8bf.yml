@@ -1,0 +1,21 @@
+lastAccountName: Hidden1
+timestamps:
+  login: 1737920009504
+  logout: 1737920233094
+  mute: 0
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -11.09814610631835
+  y: 10.730007644569557
+  z: -107.09615232036586
+  yaw: 39.452515
+  pitch: 12.899961
+logoutlocation:
+  world: world
+  x: 82.20260671314237
+  y: 35.0
+  z: -136.4943342087722
+  yaw: -90.36951
+  pitch: -2.849117
+muted: false

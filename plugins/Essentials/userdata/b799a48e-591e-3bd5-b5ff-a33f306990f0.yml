@@ -1,0 +1,19 @@
+lastAccountName: fixer
+timestamps:
+  login: 1737904805101
+  logout: 1737905016206
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: -27.366571561694624
+  y: 4.0
+  z: -106.16358699496767
+  yaw: -98.798836
+  pitch: 4.615534
+lastlocation:
+  world: world
+  x: 3.034888329189626
+  y: 4.0
+  z: -112.34150020042036
+  yaw: -115.33142
+  pitch: 11.629662

@@ -1,0 +1,20 @@
+lastAccountName: SquadGame3
+timestamps:
+  login: 1737636084651
+  logout: 1737643252365
+  lastteleport: 1737635709763
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 469.07495583578793
+  y: 32.12259469610107
+  z: -76.95870931949705
+  yaw: -131.45569
+  pitch: 31.420341
+logoutlocation:
+  world: world
+  x: 290.257987680124
+  y: 88.86768181244203
+  z: 5.175746424196704
+  yaw: -140.1061
+  pitch: 52.097237

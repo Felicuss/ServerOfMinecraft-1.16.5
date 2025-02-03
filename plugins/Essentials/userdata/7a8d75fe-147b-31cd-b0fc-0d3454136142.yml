@@ -1,0 +1,19 @@
+lastAccountName: ggSmil
+timestamps:
+  login: 1737907296205
+  logout: 1737907341005
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 2.4024601185351555
+  y: 4.0
+  z: -114.52331394284363
+  yaw: -12.75
+  pitch: 25.499786
+logoutlocation:
+  world: world
+  x: -18.569571182428756
+  y: 4.482499986886978
+  z: -108.34032676269223
+  yaw: -30.75
+  pitch: 8.55

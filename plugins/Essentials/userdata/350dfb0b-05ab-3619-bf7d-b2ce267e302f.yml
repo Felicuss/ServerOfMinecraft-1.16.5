@@ -1,0 +1,21 @@
+lastAccountName: nowon_onq
+timestamps:
+  login: 1737910572653
+  mute: 0
+  logout: 1737910594250
+ipAddress: 127.0.0.1
+muted: false
+lastlocation:
+  world: world
+  x: 17.10813588848712
+  y: 29.0
+  z: -134.69999998807907
+  yaw: -113.258545
+  pitch: 2.70807
+logoutlocation:
+  world: world
+  x: -6.104738067969389
+  y: 4.0625
+  z: -111.18348637482474
+  yaw: 88.51099
+  pitch: 13.066514
